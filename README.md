@@ -1,5 +1,17 @@
 # Search the FiftyOne Docs with an LLM
 
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/fiftyone-community)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-purple?style=flat&logo=huggingface)](https://huggingface.co/Voxel51)
+[![Voxel51 Blog](https://img.shields.io/badge/Voxel51_Blog-ff6d04?style=flat)](https://voxel51.com/blog)
+[![Newsletter](https://img.shields.io/badge/Newsletter-BE5B25?logo=mail.ru&logoColor=white)](https://share.hsforms.com/1zpJ60ggaQtOoVeBqIZdaaA2ykyk)
+[![LinkedIn](https://img.shields.io/badge/In-white?style=flat&label=Linked&labelColor=blue)](https://www.linkedin.com/company/voxel51)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/voxel51)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/voxel51)
+
+</div>
+
 This repository contains the code to enable semantic search on the
 [Voxel51 documentation](https://docs.voxel51.com) from Python or the command
 line. The search is powered by [FiftyOne](https://github.com/voxel51/fiftyone),
@@ -178,4 +190,4 @@ Thanks for visiting! 😊
 
 If you want join a fast-growing community of engineers, researchers, and
 practitioners who love computer vision, join the
-[FiftyOne Slack community](https://slack.voxel51.com/)! 🚀🚀🚀
+! 🚀🚀🚀
